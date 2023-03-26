@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## About Me
 Hi there! My name is Trevor Olsen, I'm a student pursuing a bachelors degree in Mechanical Engineering at Colorado State University. I am passionate about flight simulators and create life-like replicas of popular aircraft.
 
